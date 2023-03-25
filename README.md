@@ -30,7 +30,7 @@
 
 4. [⭐⭐] https://ai.bo-e.com/
 
-5. [⭐⭐] https://chat3.xeasy.me
+5. [⭐⭐] https://chat4.xeasy.me
 
 6. [⭐⭐] https://chat4.xeasy.me
 
