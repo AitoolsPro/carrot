@@ -21,63 +21,65 @@
 [//]: # (下面是正常的站点)
 
 
-1. [🔑⭐] https://poe.com/
+1. [⭐⭐] https://chatbot.theb.ai/
 
-2. [⭐⭐] https://chat9.yqcloud.top/
+2. [🔑⭐] https://poe.com/
 
-3. [⭐⭐] https://ai.bo-e.com/
+3. [⭐⭐] https://chat9.yqcloud.top/
 
-4. [⭐⭐] https://chat4.xeasy.me
+4. [⭐⭐] https://ai.bo-e.com/
 
-5. [⭐⭐] https://www.ftcl.site/
+5. [⭐⭐] https://chat4.xeasy.me
 
-6. [⭐⭐] http://ai.usesless.com/
+6. [⭐⭐] https://www.ftcl.site/
 
-7. [⭐⭐] https://gpt.intercat.cn/
+7. [⭐⭐] http://ai.usesless.com/
 
-8. [⭐⭐] https://chat.extnav.com/
+8. [⭐⭐] https://gpt.intercat.cn/
 
-9. [⭐⭐] http://openmao.com/
+9. [⭐⭐] https://chat.extnav.com/
 
-10. [⭐⭐] https://chat3.geekr.dev
+10. [⭐⭐] http://openmao.com/
 
-11. [⭐⭐] https://qachat.cc
+11. [⭐⭐] https://chat3.geekr.dev
 
-12. [⭐⭐] https://chat3.xeasy.me
+12. [⭐⭐] https://qachat.cc
 
-13.  https://openprompt.co/ChatGPT
+13. [⭐⭐] https://chat3.xeasy.me
 
-14.  https://chater.lanyun1103.top
+14.  https://openprompt.co/ChatGPT
 
-15.  https://beta.character.ai/
+15.  https://chater.lanyun1103.top
 
-16.  https://chat1.wuguokai.top/s/chatgpt
+16.  https://beta.character.ai/
 
-17.  https://chat.wuguokai.cn/s/chatgpt
+17.  https://chat1.wuguokai.top/s/chatgpt
 
-18.  https://gpt.getshare.net/
+18.  https://chat.wuguokai.cn/s/chatgpt
 
-19.  https://xc.com/
+19.  https://gpt.getshare.net/
 
-20.  https://94gpt.com/
+20.  https://xc.com/
 
-21.  https://www.teach-anything.com/
+21.  https://94gpt.com/
 
-22.  https://trychatgp.com/
+22.  https://www.teach-anything.com/
 
-23.  https://ai117.com/
+23.  https://trychatgp.com/
 
-24.  http://chat.livepo.top/
+24.  https://ai117.com/
 
-25.  http://www.tdchat.vip/ 
+25.  http://chat.livepo.top/
 
-26.  https://desk.im/
+26.  http://www.tdchat.vip/ 
 
-27.  https://ai.ls/
+27.  https://desk.im/
 
-28.  http://175.178.88.119/
+28.  https://ai.ls/
 
-29.  https://ai.ci
+29.  http://175.178.88.119/
+
+30.  https://ai.ci
 
 
 
