@@ -20,7 +20,7 @@
 
 [//]: # (下面是正常的站点)
 
-
+0. [⭐⭐] https:/aitool.fans
 1. [⭐⭐] https://chatbot.theb.ai/
 
 2. [🔑⭐] https://poe.com/
