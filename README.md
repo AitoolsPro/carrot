@@ -9,7 +9,6 @@
 > <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">🔗支持我，给你更长久的陪伴：【🧡赞赏🧡】</font></a>
 
 <br/>
-
 <a href="https://cc.ai55.cc/ad" target="_blank"><img src="https://st.ai55.cc/chatgpt3-icu.png" alt="http://chatgpt3.icu" style="height: 80px !important;width: auto !important;" ></a>
 
 - [👆http://chatgpt3.icu](https://cc.ai55.cc/ad) [ad.]
@@ -93,8 +92,6 @@
 - 🔑:需要进行**登录**或需要**密码**
     <br/>
 - ⛔:有限地使用**次数**或**字数**，需提供key或进行充值进行服务升级
-     <br/>
-- ❓ :未测试，未进行标注也为未测试
      <br/>
 
 [//]: # ( &#40;下面是更多的站点&#41;)
